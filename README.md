@@ -1,4 +1,4 @@
-# Python Practice Repository
+# Python Practice Repository 🐍 🐍 
 
 Welcome.
 
@@ -6,7 +6,7 @@ This repository contains my Python learning journey, which is a professional way
 
 *"A collection of programs ranging from surprisingly decent to 'how did this even run?'"*
 
-## What Is This Repository?
+## What Is This Repository ❓ ❓ 
 
 This is where I practice Python, experiment with concepts, solve problems, and slowly turn confusion into understanding.
 
@@ -15,7 +15,7 @@ Every file here represents either:
 * Something I learned
 * Something I broke
 * Something I fixed
-* Or all three at the same time
+* Or all three at the same time 😝😝
 
 ## What You'll Find Here
 
@@ -49,9 +49,9 @@ This is not a large-scale enterprise system.
 
 It is not critical infrastructure.
 
-It is not software that controls satellites, stock markets, or nuclear reactors.
+It is not software that controls satellites 🛰️, stock markets, or nuclear reactors 🥰.
 
-It's a student repository.
+It's a student repository.👶👶
 
 The mission here is simple:
 
@@ -63,9 +63,9 @@ Learn.
 
 Repeat.
 
-## Why I Keep Committing
+## Why I Keep Committing❓❓
 
-Because progress is easier to measure when it's visible.
+Because progress is easier to measure when it's visible.📈
 
 One small program today.
 
@@ -81,4 +81,4 @@ No promises on that last part.
 
 ---
 
-*"Every skilled programmer has a folder full of code they would never show anyone. This repository is simply mine in public."*
+*"Every skilled programmer has a folder full of code they would never show anyone. This repository is simply mine in public."*😂😂
