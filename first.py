@@ -2,7 +2,7 @@ from array import array
 from numpy import *
 
 
-s = 0
+s = 1
 while s<10:
  print(s)
  s +=1
